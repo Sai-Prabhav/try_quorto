@@ -34,7 +34,7 @@
     "href": "problem_3.html",
     "title": "3  Problem Three",
     "section": "",
-    "text": "Prove \\(0 \\neq 1\\) this question is significantly harder than the first 2 question let use first assume the proof in previous problem to prove this  by problem 3 we have \\(1 \\neq 0\\)\n\\(\\implies 0 \\neq 1\\)\nHENCE THE PROOF",
+    "text": "Prove \\(1 \\neq 0\\) this question is significantly harder than the first 2 question let use first assume the proof in problem 4 to prove this  by problem 4 we have \\(0 \\neq 1\\)\n\\(\\implies 1 \\neq 0\\)\nHENCE THE PROOF",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Problem Three</span>"
     ]
