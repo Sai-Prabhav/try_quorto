@@ -1,11 +1,11 @@
 # Problem Three
 
-Prove $1 \eq 0$ 
+Prove $1 = 0$ 
 this question is significantly harder than the first 2 question
 let use first assume the proof in [problem 4](/problem_4.html) to prove this 
 <br>
-by problem 4 we have $0 \eq 1$
+by problem 4 we have $0 = 1$
 
-$\implies 1 \eq 0$
+$\implies 1 = 0$
 
 HENCE THE PROOF
