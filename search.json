@@ -10,11 +10,11 @@
     ]
   },
   {
-    "objectID": "q.html",
-    "href": "q.html",
+    "objectID": "problem_1.html",
+    "href": "problem_1.html",
     "title": "1  question one",
     "section": "",
-    "text": "Its so easy there is no solution",
+    "text": "Prove Riemann Hypothesis\nIts so easy there is no solution",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>question one</span>"
     ]
@@ -24,7 +24,7 @@
     "href": "problem_2.html",
     "title": "2  question two",
     "section": "",
-    "text": "Its same as the previous Please refer it",
+    "text": "prove or disprove the twin prime conjecture\nThis problem is so trival once you under stand the first question please refer it previous question",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>question two</span>"
     ]
