@@ -6,6 +6,6 @@ let use first assume the proof in previous [problem](/problem_3.html) to prove t
 <br>
 by problem 3 we have $1 \neq 0$
 
-$ \implies 0 \neq 1$
+$\implies 0 \neq 1$
 
 ## HENCE THE PROOF
