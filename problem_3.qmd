@@ -1,11 +1,11 @@
 # Problem Three
 
-Prove $0 \neq 1$ 
+Prove $1 \neq 0$ 
 this question is significantly harder than the first 2 question
 let use first assume the proof in previous [problem](/problem_1.html) to prove this 
 <br>
-by problem 3 we have $1 \neq 0$
+by problem 4 we have $0 \neq 1$
 
-$\implies 0 \neq 1$
+$\implies 1 \neq 0$
 
 HENCE THE PROOF
