@@ -1,0 +1,8 @@
+# Problem 4
+
+Prove $ \neq 1$ 
+this question is significantly harder than the first 2 question
+let use first assume the proof in previous [problem](/problem_3.html) to prove this 
+$1 \neq 0 \implies 0 \neq 1$
+
+# HENCE THE PROOF

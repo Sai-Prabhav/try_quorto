@@ -9,6 +9,8 @@ book:
         - index.qmd
         - problem_1.qmd
         - problem_2.qmd
+        - problem_3.qmd
+        - problem_4.qmd
         - intro.qmd
         - summary.qmd
         - references.qmd
