@@ -2,7 +2,7 @@
 
 Prove $1 \neq 0$ 
 this question is significantly harder than the first 2 question
-let use first assume the proof in [problem 4](/problem_1.html) to prove this 
+let use first assume the proof in [problem 4](/problem_4.html) to prove this 
 <br>
 by problem 4 we have $0 \neq 1$
 
