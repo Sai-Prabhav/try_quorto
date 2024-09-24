@@ -1,3 +1,4 @@
 # question two
+prove or disprove the twin prime conjecture 
 
-Its same as the previous Please refer it
+This problem is so trival once you under stand the first question please refer it [previous question](/try_qurto/q.html)

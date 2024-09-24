@@ -7,7 +7,7 @@ book:
     date: "9/23/2024"
     chapters:
         - index.qmd
-        - q.qmd
+        - problem_1.qmd
         - problem_2.qmd
         - intro.qmd
         - summary.qmd
