@@ -30,23 +30,43 @@
     ]
   },
   {
+    "objectID": "problem_3.html",
+    "href": "problem_3.html",
+    "title": "3  Problem 3",
+    "section": "",
+    "text": "Prove \\(1 \\neq 0\\) this question is significantly harder than the first 2 question let use first assume the proof in problem 4 to prove this \\(0 \\neq 1 \\implies 1 \\neq 0\\)\n\n4 HENCE THE PROOF",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Problem 3</span>"
+    ]
+  },
+  {
+    "objectID": "problem_4.html",
+    "href": "problem_4.html",
+    "title": "4  Problem 4",
+    "section": "",
+    "text": "Prove $ $ this question is significantly harder than the first 2 question let use first assume the proof in previous problem to prove this \\(1 \\neq 0 \\implies 0 \\neq 1\\)\n\n5 HENCE THE PROOF",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Problem 4</span>"
+    ]
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "3  Introduction",
+    "title": "5  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "4  Summary",
+    "title": "6  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
