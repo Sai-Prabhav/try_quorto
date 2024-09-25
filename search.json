@@ -50,23 +50,33 @@
     ]
   },
   {
+    "objectID": "interactive.html",
+    "href": "interactive.html",
+    "title": "5  interactive",
+    "section": "",
+    "text": "I love python\n\nfrom ipyleaflet import Map, Marker, basemaps, basemap_to_tiles\nm = Map(\n  basemap=basemap_to_tiles(\n    basemaps.NASAGIBS.ModisTerraTrueColorCR, \"2017-04-08\"\n  ),\n  center=(52.204793, 360.121558),\n  zoom=4\n)\nm.add_layer(Marker(location=(52.204793, 360.121558)))\nm",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>interactive</span>"
+    ]
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "5  Introduction",
+    "title": "6  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "6  Summary",
+    "title": "7  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
