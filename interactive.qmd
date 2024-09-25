@@ -40,7 +40,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Generate x values
-x = np.linspace(-10, 10, 400)  # Creates 400 points between -10 and 10
+x = np.linspace(-100, 100, 4000)  # Creates 400 points between -10 and 10
 
 # Define the polynomial: y = x^3 - 4x^2 + 2x - 5
 y = x**3 - 4*x**2 + 2*x - 5
