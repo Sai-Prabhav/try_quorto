@@ -31,5 +31,5 @@ plt.xlabel('X axis')
 plt.ylabel('Y axis')
 
 # Show the plot
-plt
+plt.show()
 ```
